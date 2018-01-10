@@ -13,8 +13,8 @@
         android:background="#ffffff">
 
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
+            android:layout_width="15dp"
+            android:layout_height="20dp"
             android:layout_marginLeft="50dp"
             android:background="@mipmap/last"
             android:onClick="lastMonth" />
@@ -28,8 +28,8 @@
             android:textStyle="bold" />
 
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
+            android:layout_width="15dp"
+            android:layout_height="20dp"
             android:layout_alignParentRight="true"
             android:layout_marginRight="50dp"
             android:background="@mipmap/next"
